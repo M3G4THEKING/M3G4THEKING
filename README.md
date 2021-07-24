@@ -1,5 +1,13 @@
 ### I'm Thunder - aka [M3G4THEKING][website] 👋
 
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="M3G4THEKING's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=M3G4THEKING&show_icons=true&theme=radical&hide_border=true" />
+
+
+</details>
+
 [![Website](https://img.shields.io/website?label=xxxxx&style=for-the-badge&url=https%3A%2F%2Fxxxxxxxxxxx.com)](https://xxxxx)
 [![Twitter Follow](https://img.shields.io/twitter/follow/M3G4THEKING?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://github.com/M3G4THEKING&screen_name=M3G4THEKING)
 
@@ -59,13 +67,7 @@
 
 </details>
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="M3G4THEKING's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=M3G4THEKING&show_icons=true&theme=radical&hide_border=true" />
-
-
-</details>
 
 [website]: https://M3G4THEKING
 [course]: http://vsCodeHero.com
