@@ -63,8 +63,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="M3G4THEKING GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=M3G4THEKING&show_icons=true&hide_border=true" />
-  ![M3G4THEKING's GitHub stats](https://github-readme-stats.vercel.app/api?username=M3G4THEKING&show_icons=true&theme=radical)
+  <img align="left" alt="M3G4THEKING's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=M3G4THEKING&show_icons=true&theme=radical&hide_border=true" />
 
 
 </details>
