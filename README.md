@@ -1,7 +1,7 @@
 ### Hi there, I'm Thunder - aka [M3G4THEKING][website] 👋
 
 [![Website](https://img.shields.io/website?label=xxxxx&style=for-the-badge&url=https%3A%2F%2Fxxxxxxxxxxx.com)](https://xxxxx)
-[![Twitter Follow](https://img.shields.io/twitter/follow/M3G4THEKING?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FM3G4THEKING&screen_name=M3G4THEKING)
+[![Twitter Follow](https://img.shields.io/twitter/follow/M3G4THEKING?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://github.com/M3G4THEKING&screen_name=M3G4THEKING)
 
 ## I'm a Husband, Father, Developer, and Teacher!!
 
