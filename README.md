@@ -1,5 +1,5 @@
 ### I'm Thunder - aka [M3G4THEKING][website] 👋
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=M3G4THEKING&theme=dark)]
 <details>
   <summary>:zap: GitHub Stats</summary>
 
